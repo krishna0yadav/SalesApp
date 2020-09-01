@@ -1,5 +1,6 @@
 # SalesApp
-This Project Introduces Sales Management System.
-Our project helps shopkeepers in performing safe transactions and all the records are kept in an centralized environment on a PC using MySQL DBMS.
-Our project have a window in which all the list of items are provided for purchasing any item for the customers which in turn shows total amount to be paid and produces a bill for the given transaction. 
-There is another window in which shopkeeper can import the items which are empty by selecting them from the list and similarly it provides total amount and keeps a record of imports in database.
+This software provides a GUI for buying items and importing goods.
+All the records are kept in an centralized environment on a PC.
+Our project have a customer window, a list of items is provided for buying items, showing payable amount, produces a bill for the same.
+Also there is a vendor window for importing out-of-stock items from the list, shows total amount and keeps a record of imports in the database.
+We can also access previous transaction bills with details.
