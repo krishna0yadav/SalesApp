@@ -1,4 +1,4 @@
-# SalesApp
+# SalesApp Its really awesome
 This software provides a GUI for buying items and importing goods.
 All the records are kept in an centralized environment on a PC.
 Our project have a customer window, a list of items is provided for buying items, showing payable amount, produces a bill for the same.
